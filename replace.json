@@ -1,7 +1,7 @@
 {
     "version": "3.3.0",
     "logs": "3.3.0: 添加了云弹药修改和本地弹药精制功能。强烈建议各位更新",
-    "announcement": "云广播测试",
+    "announcement": "地下电台广播测试",
     "regexs": [],
     "block_words": ["coco", "member", "graduate", "shame", "alcohol", "liver", "english", "japan", "america", "aloe", "gura", "fubuki", "debuki", "psycho", "poison", "democracy", "wine", "potion", "trash", "interesting", "politics"],
     "replace_words": {"kaicho": "kaiicho"}
