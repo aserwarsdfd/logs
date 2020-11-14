@@ -1,7 +1,7 @@
 {
     "version": "3.3.0",
     "logs": "3.3.0: 添加了云弹药修改和本地弹药精制功能。强烈建议各位更新",
-    "announcement": "地下电台广播测试",
+    "announcement": "地下电台广播：本日蝗四动，北京时间11:00歌回，13:00恐怖游戏，19:00ARK，22:00同时视听。号少的朋友多注意人工扳手的击杀倾向减少战损，歌回期间该房间和freechatroom都关了SC，请依靠观察哨确认存活情况。每一场被nightbot击杀的理论上下一场都还能用",
     "regexs": [],
     "block_words": ["dragon", "night", "member", "graduate", "shame", "alcohol", "liver", "english", "japan", "america", "aloe", "gura", "fubuki", "debuki", "psycho", "poison", "democracy", "wine", "potion", "trash", "interesting", "politics"],
     "replace_words": {}
