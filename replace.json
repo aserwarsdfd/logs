@@ -1,6 +1,6 @@
 {
-    "version": "3.4.1",
-    "logs": "3.4.1: 提高了mod的兼容性，添加了弹药转换为小写字母功能",
+    "version": "3.4.2",
+    "logs": "3.4.2: 修复了Alert弹窗影响自动开车和版本检测出错的问题",
     "announcement": "地下电台广播：根据前线战报，临时启动了大写字母替换为小写字母的功能。功能已经集成到独轮车内部",
     "regexs": [],
     "block_words": ["dragon", "night", "member", "graduate", "shame", "alcohol", "liver", "english", "japan", "america", "aloe", "gura", "fubuki", "debuki", "psycho", "poison", "democracy", "wine", "potion", "trash", "interesting", "politics"],
